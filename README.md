@@ -1,4 +1,4 @@
-Mac Cache Cleaner Script
+MacOS Cache Cleaner Script
 ===
 **Description**
 
